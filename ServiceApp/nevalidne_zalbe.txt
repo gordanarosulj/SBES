@@ -1,0 +1,8 @@
+CN: CN=korisnik1, OU=Korisnik
+Issuer: CN=TestCA
+Complaint: nnnn neznam
+
+CN: CN=korisnik1
+Issuer: CN=TestCA
+Complaint: ludilo mozga rec1
+
